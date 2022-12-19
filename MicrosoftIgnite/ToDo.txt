@@ -2,3 +2,6 @@ https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/01%20-%20Fligh
 
 
 https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/02%20-%20Real%20Estate%20Regression%20Challenge.ipynb
+
+
+https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/03%20-%20Wine%20Classification%20Challenge.ipynb
