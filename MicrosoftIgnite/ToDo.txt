@@ -5,3 +5,6 @@ https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/02%20-%20Real%
 
 
 https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/03%20-%20Wine%20Classification%20Challenge.ipynb
+
+
+https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/04%20-%20Clustering%20Challenge.ipynb
